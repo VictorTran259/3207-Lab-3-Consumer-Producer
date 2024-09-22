@@ -69,7 +69,7 @@
         Takes in a queue and then dequeues the value into the queue. Stores the value to be dequeued gotten from getFrontVal() in a temp variable and returns the value that
         was dequeued from the queue after dequeueing the value from the queue.
 
-### In queue.c (I copied this code from geeksforgeeks as we were allowed to. Link: https://www.geeksforgeeks.org/queue-linked-list-implementation/?ref=lbp#)
+### In queue.c (Code from geeksforgeeks. Link: https://www.geeksforgeeks.org/queue-linked-list-implementation/?ref=lbp#)
     struct QNode* newNode(int k)
         "A utility function to create a new linked list node". I didn't make any modifications to it.
 
